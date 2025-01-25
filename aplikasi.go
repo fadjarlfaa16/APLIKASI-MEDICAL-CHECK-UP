@@ -69,10 +69,7 @@ func main_menu(pilihan int, pasien *arrIdentitas, paketMCU *arrPaketMCU) {
     }else if pilihan == 99 {
         Println("-------------------    APLIKASI BERAKHIR    ---------------------")
         Println("TERIMA KASIH TELAH MENGGUNAKAN APLIKASI MEDICAL CHECKUP SEDERHANA")
-        Println("        Made by MUHAMMAD FADJAR AL FARISYI (1303223168)          ")
-        Println("               AFRIAN SATRIA HUTOMO (1303223182)          ")
-        Println("                      nanta (1303223168)          ")
-        Println("               MATA KULIAH ALGORITMA PEMROGRAMAN                 ")
+        Println("        Made by MUHAMMAD FADJAR AL FARISYI                       ")
     }
 }
 
